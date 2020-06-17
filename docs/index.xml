@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joe Catholic</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Joe Catholic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2020 Father Christopher J. Decker - All rights reserved</copyright>
+    <lastBuildDate>Wed, 17 Jun 2020 11:17:14 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/blog/the-title-here/</link>
+      <pubDate>Wed, 17 Jun 2020 11:17:14 +0200</pubDate>
+      
+      <guid>http://example.org/blog/the-title-here/</guid>
+      <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+    </item>
+    
+    <item>
+      <title>About The Comic</title>
+      <link>http://example.org/static/about/</link>
+      <pubDate>Wed, 17 Jun 2020 11:22:00 +0600</pubDate>
+      
+      <guid>http://example.org/static/about/</guid>
+      <description>Joe Catholic started as a catechetical comic in the vein of the Sunday comic ShortCuts by Jeff Harris. Diving into the adventure that is The Catholic Faith, Joe and his friends find themselves right in the middle of fun aspects of Catholic life.</description>
+    </item>
+    
+  </channel>
+</rss>
