@@ -9,7 +9,7 @@ publishDir = "docs"
 
 [params]
   logo = "/images/logo.png"
-  description ="Be More than an Average Disciple!"
+  description ="Be More than An Average Disciple!"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
