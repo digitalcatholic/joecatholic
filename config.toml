@@ -1,4 +1,4 @@
-baseURL = "https://joecatholic.netlify/app"
+baseURL = "https://joecatholic.netlify.com/app"
 languageCode = "en-us"
 title = "Joe Catholic"
 theme = "mediumish-gohugo-theme"
