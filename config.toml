@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://joecatholic.netlify/app/"
 languageCode = "en-us"
 title = "Joe Catholic"
 theme = "mediumish-gohugo-theme"
@@ -34,7 +34,7 @@ Currently trying to get this blog running, still don't know what the blog will b
   xing = "<username>"
   medium = "<username>"
   twitter = "joecatholic"
-  instagram = "<username>"
+  instagram = "digitalcatholic"
 
 ## Main Menu
 [[menu.main]]
