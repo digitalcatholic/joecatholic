@@ -2,7 +2,7 @@
 title: "My First Post"
 date: 2020-06-17T11:17:14+02:00
 publishdate: 2018-10-07T11:17:14+02:00
-image: "/images/blog/1.jpg"
+image: "/images/blog/1-a.jpg"
 tags: ["interesting"]
 comments: false
 ---
