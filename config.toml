@@ -29,10 +29,6 @@ Currently trying to get this blog running, still don't know what the blog will b
   alertbar = false
 
 [params.social]
-  github = "<username>"
-  linkedin = "<username>"
-  xing = "<username>"
-  medium = "<username>"
   twitter = "joecatholic"
   instagram = "digitalcatholic"
 
