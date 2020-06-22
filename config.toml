@@ -8,8 +8,8 @@ enableEmoji = true
 publishDir = "docs"
 
 [params]
-  logo = "/images/logo.png"
-  description ="Be More than An Average Disciple!"
+  logo = "/images/joe-catholic-header-title.png"
+  description ="Discipleship is an Adventure"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
@@ -38,17 +38,17 @@ Currently trying to get this blog running, still don't know what the blog will b
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog"
+    name = "Comics"
     weight = 100
-    identifier = "blog"
-    url = "/blog"
+    identifier = "comics"
+    url = "/comics"
 [[menu.main]]
     name = "About"
     identifier = "about"
     weight = 200
     url = "/static/about"
 [[menu.main]]
-    name = "Imprint"
-    identifier = "imprint"
-    weight = 200
-    url = "/static/about"
+        name = "Permissions"
+        identifier = "permissions"
+        weight = 300
+        url = "/static/permissions"

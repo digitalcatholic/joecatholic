@@ -4,7 +4,19 @@
 
 {{ define "main" }}
     <div class="main-content">
-        <header class="text-center">
+    <div class="flex-container">
+      <div class="front-box-1">
+        Hi!
+      </div>
+      <div class="front-box-2">
+        This website
+      </div>
+      <div class="front-box-3">
+        is well on the way to existence!
+      </div>
+<!-- end flex container --> </div>
+
+      <!--  <header class="text-center">
             {{ with .Site.Params.index.picture }}
                 <img src="{{ . | urlize | relURL }}" class="rounded-circle text-center index-image">
             {{ end }}
@@ -18,7 +30,8 @@
             {{ with .Site.Params.index.mdtext }}
             <h6 class="index-text">{{ . | markdownify }}</h6>
             {{ end }}
-        </section>
+        </section> -->
+
     </div>
     {{- partial "_shared/social.html" . -}}
     {{ if isset .Site.Params.index "alertbar" }}
