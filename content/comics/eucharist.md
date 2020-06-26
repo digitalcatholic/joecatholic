@@ -2,7 +2,7 @@
 title: "The Eucharist"
 date: 2020-06-19T11:00:00+06:00
 publishdate: 2020-06-19T11:00:00+06:00
-image: "eucharist.cover.jpg"
+image: "/images/comics/eucharist.cover.jpg"
 tags: ["Eucharist"]
 comments: false
 ---
