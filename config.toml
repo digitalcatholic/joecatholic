@@ -13,14 +13,14 @@ publishDir = "docs"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
-  name = "John Doe"
-  thumbnail = "/images/author.png"
-  description = "Creator of this blog."
+  name = "Fr. Chris Decker"
+  thumbnail = "/images/decker-bio.png"
+  description = "Priest and Artist."
 
 [params.index]
-  picture = "/images/author.png"
-  title = "John Doe"
-  subtitle = "I'm a unique placeholder. Working here and there!"
+  picture = "/images/decker-bio.png"
+  title = "Fr. Chris Decker"
+  subtitle = ""
   mdtext = '''
 Currently trying to get this blog running, still don't know what the blog will be about!\
 **This textblock is a demonstration of the mdtext-param.**\
