@@ -6,10 +6,10 @@ image: "/images/comics/archangels.png"
 tags: ["archangels, St. Michael, St. Gabriel, St. Raphael"]
 comments: false
 ---
-![archangels]('/static/images/comics/archangels.png')
+![archangels](/static/images/comics/archangels.png)
 
 
 Joe Catholic learns about the archangels who appear in the Old and New Testament.
 
 
-[Download PDF] ('/static/images/comics/pdf/archangels.pdf')
+[Download PDF] (/static/images/comics/pdf/archangels.pdf)
