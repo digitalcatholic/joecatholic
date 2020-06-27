@@ -1,12 +1,15 @@
 ---
-title: "The Eucharist"
+title: "Archangels"
 date: 2020-06-19T11:00:00+06:00
 publishdate: 2020-06-19T11:00:00+06:00
-image: "/images/comics/eucharist.cover.jpg"
-tags: ["Eucharist"]
+image: "/images/comics/archangels.png"
+tags: ["archangels, St. Michael, St. Gabriel, St. Raphael"]
 comments: false
 ---
-![Page 2](/images/comics/eucharist.cover.jpg "Joe Catholic Episode 2, Page 2")
+![archangels]('/static/images/comics/archangels.png')
 
-# This is my first post
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas fringilla tempus urna ac laoreet. Curabitur sed bibendum lectus. Vivamus gravida venenatis porttitor. Phasellus aliquet nibh vel accumsan malesuada. Nulla nibh enim, auctor nec rhoncus a, pulvinar at tortor. Donec sodales consequat dolor et condimentum. Praesent convallis massa sit amet ultrices porta. Sed commodo, odio et porttitor fringilla, mi tortor sodales nulla, a fermentum dolor mi pulvinar mi!
+
+Joe Catholic learns about the archangels who appear in the Old and New Testament.
+
+
+[Download PDF] ('static/images/comics/pdf/archangels.pdf')
