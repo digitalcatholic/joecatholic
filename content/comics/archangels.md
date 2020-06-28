@@ -9,4 +9,6 @@ comments: false
 Joe Catholic learns about the archangels who appear in the Old and New Testament.
 ![archangels](/images/comics/archangels.png)
 
-<a href="https://joecatholic.com/images/comics/pdf/archangels.pdf" class="pdf-dl-box"><img src="https://joecatholic.com/images/pdf-download.png" alt="Download PDF"> Download as PDF.</a>
+<div id="pdf-dl-box">
+<a href="https://joecatholic.com/images/comics/pdf/archangels.pdf"><img src="https://joecatholic.com/images/pdf-download.png" alt="Download PDF"></a>
+</div>
