@@ -10,5 +10,5 @@ Joe Catholic learns explains what Catholics believe about the connection between
 ![Scripture & Tradition](/images/comics/2020-07-04-scripture-tradition.png)
 
 <div id="pdf-dl-box">
-<a href="https://joecatholic.com/images/comics/pdf/static/images/comics/pdf/2020-07-04-Scripture-Tradition.pdf.pdf"><img src="https://joecatholic.com/images/pdf-download.png" alt="Download PDF">Download as PDF</a>
+<a href="https://joecatholic.com/static/images/comics/pdf/2020-07-04-Scripture-Tradition.pdf"><img src="https://joecatholic.com/images/pdf-download.png" alt="Download PDF">Download as PDF</a>
 </div>
