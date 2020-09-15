@@ -1,5 +1,5 @@
 ---
-title: "Scripture & Tradition"
+title: "The Eucharist & The Last Supper"
 date: 2020-09-15T21:20:00+06:00
 publishdate: 2020-07-04T21:20:00+06:00
 image: "/images/comics/2020-09-15-eucharist-last-supper.png"
