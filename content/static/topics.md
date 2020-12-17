@@ -9,3 +9,4 @@ If a topic has a comic assigned to it, it will be linked! If there's no link yet
 + [The Eucharist](https://www.joecatholic.com/comics/eucharist-last-supper/)
 + [The Last Supper](https://www.joecatholic.com/comics/eucharist-last-supper/)
 + [Scripture & Tradition] (https://www.joecatholic.com/comics/scripture-tradition/)
++ [The Nativity Set] (https://www.joecatholic.com/comics/the-nativity-set/)
